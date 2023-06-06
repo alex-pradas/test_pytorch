@@ -2,7 +2,6 @@
 
 This is the link to setup the M2 to work with pytorch and MPS: https://developer.apple.com/metal/pytorch/
 
-
 the conda environment is `pytorch_test` and running python test.py returns:
 
 ```python
